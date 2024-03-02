@@ -1,5 +1,9 @@
 <h2> Hi, I'm moluee! <img  src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"  width="50"></h2>
 
+[![GitHub](https://img.shields.io/github/followers/moluee?label=follow&style=social)](https://github.com/moluee)
+
+---
+
 ```json
 {
   "Profile": {
